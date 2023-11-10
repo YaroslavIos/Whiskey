@@ -13,7 +13,8 @@ struct AboutUsView: View {
     var body: some View {
         NavigationStack {
             Text("Look through our history.")
-                .font(.system(size: 30, design: .rounded))
+                .fontWeight(.semibold)
+                .font(.system(size: 30, design: .serif))
             List {
                 ForEach(information) { information in
                     VStack(alignment: .leading, spacing: 15) {
