@@ -1,0 +1,123 @@
+[
+{
+"id": 1,
+"name": "Jameson Irish Whiskey",
+"nose": "A light floral fragrance, peppered with spicy wood and sweet notes.",
+"taste": "The perfect balance of spicy, nutty and vanilla notes with hints of sweet sherry and exceptional smoothness.",
+"finish": "Smooth, lingering finish.",
+"description": "Jameson Irish Whiskey is a blended Irish Whiskey. What’s that we hear you say? Well first we take the best of pot still and fine grain whiskeys. Then we triple distill them- not because we have to because we want to as it gives it its signature smoothness. Finally we age them in oak casks for a minimum of 4 years. It’s where we recommend starting your whiskey journey. How to drink it? Any way you like. Just add mates and widen the circle. Triple distilled, twice as smooth, one of a kind.​",
+"picture" : "Jameson Original",
+"background": "first"
+
+},
+
+{
+"id": 2,
+"name": "Jameson Black Barrel Irish Whiskey",
+"nose": "Time spent maturing in these barrels leads to intensified aromas of butterscotch, fudge and creamy toffee.",
+"taste": "Nutty notes are in abundance alongside the smooth sweetness of spice and vanilla.",
+"finish": "Enjoy the richness and intensity of toasted wood and vanilla.",
+"description": "Double charring the wood fires up the barrels and gives them new life. Untold richness and complexity awaits in every drop of Jameson Black Barrel. It’s perfect on its own or on the rocks, but it’s also commonly known as the best whiskey for an Old Fashioned. Don’t trust us? Taste it. So, care to meet our beloved Black Barrel whiskey?",
+"picture" : "Jameson Barrel",
+"background": "second"
+},
+
+{
+"id": 3,
+"name": "Jameson Single Pot Still",
+"nose": "Opens with wood-driven spices of cinnamon and nutmeg intertwined with rich toasted oak, sweet honeycomb and salted caramel. Zesty fruit notes linger in the background along with dairy fudge, butterscotch and vanilla while the pot still spices continue to build over time complementing the earthy woodland notes and ripe fruits.",
+"taste": "Rich dark chocolate, spicy toffee and ground cinnamon with hints of freshly grated ginger and touches of orange peel. The combination of fresh and seasoned oak adds intricate and layered sweet and smoked-wood tones with delicate tannins, working in balance with the pot still’s silky texture.",
+"finish": "The delicate fruits slowly fade leaving the spices and oak to linger until the very end.",
+"description": "Jameson Single Pot Still embodies the traditional Irish Whiskey making style after which it is named. Malted and unmalted barley is triple distilled for a rich, unmistakable silkiness with distinctive pot still spiciness. This Five Oak Cask Release is matured  in a combination of  three different types of virgin oak (Irish, European and American), in addition to ex-bourbon and ex-sherry casks.  The finished result is a whiskey that is equal parts complex and smooth.",
+"picture" : "Jameson Single Pot Still",
+"background": "third"
+},
+
+{
+"id": 4,
+"name": "Jameson Ipa Edition",
+"nose": "Floral, herbal hops, grapefruit citrus notes with subtle orchard fruits, complemented by wood shavings and a little nuttiness.",
+"taste": "Hops and light citrus with sweet herbal notes and delicate spicy tones.",
+"finish": "The lingering fresh fruit and hops give way to grains of barley and a signature smooth finish.",
+"description": "We’re often asked: ”What does IPA mean in whiskey?”. That’s a beer thing, right? Good question. But we’ve a good answer, Jameson IPA (Irish Pale Ale) – created for the craft beer lovers and the curious whiskey enjoyers. That you? You know what to do. Sip back and enjoy the marrying of crisp hoppy notes with smooth Irish whiskey. And what does Jameson Caskmates IPA Edition taste like you ask? Well, aren’t you in for a treat. If you’re more a Stout fan, we have that too.",
+"picture" : "Jameson IPA Edition",
+"background": "fourth"
+},
+
+{
+"id": 5,
+"name": "Jameson Caskmates Stout Edition",
+"nose": "An initial aroma of freshly cut hay is complemented by a crisp orchard fruit character – green apples and pears, with a twist of lime zest. Mild pot still spices appear, deepening from green tea to hazelnut and milk chocolate.",
+"taste": "The initial sweet mouth coating typical of the Irish pot still inclusion is quickly complemented by the subtle touch of hops and cocoa beans from the beer cask finish.",
+"finish": "Long and sweet with milk chocolate and butterscotch.",
+"description": "Irish Whiskey, craft beer barrels. Like all the best conversations, the one between Jameson’s Head of Whiskey Science and the Head Brewer of a local craft beer brewery, started at the bar. A swapping of whiskey and beer barrels soon after, resulted in Jameson Caskmates Stout Edition – triple-distilled, blended Irish Whiskey that has been patiently finished in Irish craft beer-seasoned barrels.",
+"picture" : "Jameson Caskmates Stout Edition",
+"background": "fifth"
+},
+
+{
+"id": 6,
+"name": "Jameson Cold Brew",
+"nose": "Intense rich coffee bean aromatics combined with vanilla nuttiness of Jameson.",
+"taste": "Distinctive, bold and natural with refreshing cold brew coffee impact followed by charred wood from the pot still whiskey contribution on palate.",
+"finish": "Full bodied, smooth and warming on mouthfeel.",
+"description": "Jameson Cold Brew is a meeting of Arabica beans from Brazil and Colombia with triple-distilled Jameson Irish Whiskey. You may know the Irish Coffee, but this is different. Jameson Cold Brew is best served chilled, over ice, with cola and a twist of orange. Some cracking tunes in the background, optional. Enjoy the perfectly balanced combination of the smoothest whiskey with the richness of coffee.",
+"picture" : "Jameson Cold Brew",
+"background": "sixth"
+},
+
+{
+"id": 7,
+"name": "Jameson Orange",
+"nose": "Exceptionally well-balanced aromas of zesty peel and juicy orange citrus fruits, with sweet whiskey undertones.",
+"taste": "Delicate, smooth and full mouthfeel with distinctive notes of orange zest as well as spicy, nutty, sweet vanilla.",
+"finish": "Clean finish with a sweet orange aftertaste.",
+"description": "We’ve branched out and things just got zesty. Introducing Jameson Orange. The smooth taste of triple-distilled Jameson Irish Whiskey, perfectly balanced with notes of zesty Orange flavour. Try it over ice with lemonade and a wedge of orange for a crisp and refreshing drink.",
+"picture" : "Jameson Orange",
+"background": "seventh"
+},
+
+{
+"id": 8,
+"name": "Jameson Crested",
+"nose": "Vivid sherry pot still aroma.",
+"taste": "Delicate sherry undertones & toasted wood, with fruit, spice & chocolate notes.",
+"finish": "Warm lingering sherry.",
+"description": "Though it’s not the boring type of history. More of a great story. So what is Jameson Crested? Well you might remember Jameson Ten? Or Crested Ten? We dropped that name, but the score remains. So, anyway, the story behind this historic Irish spirit. You see, we didn’t bottle our whiskey until the 1960s, and we’ve always gone a step further. Maturing longer than we need to. Going further afield, for the best barrels. Jameson Crested is a celebration of all that and a tribute to the first drops we bottled back in Bow Street. It’s having the bottle to do our own thing.",
+"picture" : "Jameson Crested",
+"background": "eight"
+},
+
+{
+"id": 9,
+"name": "Jameson 18 Years Irish Whiskey",
+"nose": "Aromatic oils with a touch of wood and spicy toffee.",
+"taste": "Wonderfully mellow and smooth, a mouthful of complex flavours –toffee, spice, hints of wood and leather, gentle sherry nuttiness and vanilla.",
+"finish": "A long lingering finish carries the theme of the wood, spice and toffee right through to the end.",
+"description": "You’ve landed on something special here. Jameson 18 Years Limited Reserve is a flavourful and elegant whiskey that’s been aged for 18 years in the finest oak barrels. It’s the kind of whiskey you pull out for special occasions, like when you’re celebrating with your best mates. And if you want to impress them, just tell them that it’s a unique blend of three signature distillates that’s been given a final marrying period of at least 6 months in a fresh American oak barrel. This adds a unique complexity and elegance to the whiskey. But don’t just take our word for it, let the bottle do the talking! Cheers!",
+"picture" : "Jameson 18 Years Irish Whiskey",
+"background": "ninth"
+},
+
+{
+"id": 10,
+"name": "Jameson Crested x Eight Degrees Black Ball",
+"nose": "Rich stout influence; malt and vanilla chocolate. Jameson Crested pot still spices and dried fruits.",
+"taste": "Luscious creamy texture, mild spice, roasted coffee beans and chocolate.",
+"finish": "Sweet notes fade, pot still spices and malt lingers.",
+"description": "We’ve been distilling Jameson since 1780, but we’re always open to new ideas. In 2019, to celebrate eight years of adventurous craft beer brewing, our friends at Eight Degrees Brewing in Co. Cork released a uniquely dark Black Ball Metric Stout, finished in Jameson barrels. We returned the favour, by filling these stout soaked barrels with some of our whiskey.",
+"picture" : "Jameson Crested x Eight Degrees Black Ball",
+"background": "eleventh"
+},
+
+{
+"id": 11,
+"name": "Jameson Crested x Eight Degrees Devil's Ladder",
+"nose": "Initial notes of clove spice and cinnamon along with rich caramelised brown sugar and a roasted malt character that complements the sherry casks’ influence of toasted oak and dried fruits.",
+"taste": "Round with abundant spices and a delicate floral hoppy character. Vanilla sweetness comes to the fore with a soft fruit note lingering in the background while the oak and malt work in tandem adding a toasted cereal element to the whiskey.",
+"finish": "Lingering with the spices slowly fading, allowing the sweet nature of the oak and malt to remain until the very end.",
+"description": "In 2020, Eight Degrees finished their Belgian Tripel craft beer in Jameson sherry casks. Named Devil’s Ladder after the best-known hiking route up Ireland’s tallest peak, the beer truly takes taste to new heights. It might be named after the easiest route up Carrauntoohil, but making it is no mean feat. And so, when we decided to pour some of our whiskey back into those beer-soaked barrels, we picked something special to match. The result is a stunning evolution of Jameson Crested, with abundant spices, floral hops and sweetness, while the oak and malt work in tandem to add a toasted cereal character.",
+"picture" : "Jameson Crested x Eight Degrees Devil's Ladder",
+"background": "tenth"
+}
+]
