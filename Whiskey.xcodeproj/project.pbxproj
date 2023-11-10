@@ -11,6 +11,24 @@
 		C20DFC232AD4713C00CF80EC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20DFC222AD4713C00CF80EC /* ContentView.swift */; };
 		C20DFC252AD4713F00CF80EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C20DFC242AD4713F00CF80EC /* Assets.xcassets */; };
 		C20DFC282AD4713F00CF80EC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C20DFC272AD4713F00CF80EC /* Preview Assets.xcassets */; };
+		C20DFC312AD5C27000CF80EC /* JamesonWhiskey.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20DFC302AD5C26F00CF80EC /* JamesonWhiskey.swift */; };
+		C20DFC352AD5E8D800CF80EC /* Jameson.json in Resources */ = {isa = PBXBuildFile; fileRef = C20DFC342AD5E8D800CF80EC /* Jameson.json */; };
+		C20DFC372AD73B5D00CF80EC /* CodableExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20DFC362AD73B5D00CF80EC /* CodableExtension.swift */; };
+		C20DFC3A2AD73D0500CF80EC /* WhiskeyCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20DFC392AD73D0500CF80EC /* WhiskeyCellView.swift */; };
+		C20DFC3C2AD73EFB00CF80EC /* WhiskeyList.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20DFC3B2AD73EFB00CF80EC /* WhiskeyList.swift */; };
+		C20DFC3E2AD8819200CF80EC /* WhiskeyDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20DFC3D2AD8819200CF80EC /* WhiskeyDetailView.swift */; };
+		C20DFC402AD883FD00CF80EC /* BannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20DFC3F2AD883FD00CF80EC /* BannerView.swift */; };
+		C2625B852AF7D7BA00445328 /* CocktailDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2625B842AF7D7BA00445328 /* CocktailDetailsView.swift */; };
+		C2A4788F2AEEB1B600F1872F /* CocktailList.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A4788E2AEEB1B600F1872F /* CocktailList.swift */; };
+		C2A478912AEEB25800F1872F /* JamesonList.json in Resources */ = {isa = PBXBuildFile; fileRef = C2A478902AEEB25800F1872F /* JamesonList.json */; };
+		C2A478932AEEB27400F1872F /* Cocktails.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A478922AEEB27400F1872F /* Cocktails.swift */; };
+		C2BA97182AF8164A00CA6B7A /* AboutUsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2BA97172AF8164A00CA6B7A /* AboutUsView.swift */; };
+		C2BA971A2AF817CB00CA6B7A /* StartScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2BA97192AF817CB00CA6B7A /* StartScreen.swift */; };
+		C2BA971C2AF819A400CA6B7A /* UserSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2BA971B2AF819A400CA6B7A /* UserSettings.swift */; };
+		C2BA971E2AF81BAC00CA6B7A /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2BA971D2AF81BAC00CA6B7A /* MainView.swift */; };
+		C2BA97202AFBFE5400CA6B7A /* About.json in Resources */ = {isa = PBXBuildFile; fileRef = C2BA971F2AFBFE5200CA6B7A /* About.json */; };
+		C2BA97222AFBFF1400CA6B7A /* AboutUs.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2BA97212AFBFF1400CA6B7A /* AboutUs.swift */; };
+		C2C3C7012AF0190B007D5BA7 /* CocktailItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2C3C7002AF0190B007D5BA7 /* CocktailItemRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +37,24 @@
 		C20DFC222AD4713C00CF80EC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C20DFC242AD4713F00CF80EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C20DFC272AD4713F00CF80EC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C20DFC302AD5C26F00CF80EC /* JamesonWhiskey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JamesonWhiskey.swift; sourceTree = "<group>"; };
+		C20DFC342AD5E8D800CF80EC /* Jameson.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Jameson.json; sourceTree = "<group>"; };
+		C20DFC362AD73B5D00CF80EC /* CodableExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableExtension.swift; sourceTree = "<group>"; };
+		C20DFC392AD73D0500CF80EC /* WhiskeyCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhiskeyCellView.swift; sourceTree = "<group>"; };
+		C20DFC3B2AD73EFB00CF80EC /* WhiskeyList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhiskeyList.swift; sourceTree = "<group>"; };
+		C20DFC3D2AD8819200CF80EC /* WhiskeyDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhiskeyDetailView.swift; sourceTree = "<group>"; };
+		C20DFC3F2AD883FD00CF80EC /* BannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BannerView.swift; sourceTree = "<group>"; };
+		C2625B842AF7D7BA00445328 /* CocktailDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocktailDetailsView.swift; sourceTree = "<group>"; };
+		C2A4788E2AEEB1B600F1872F /* CocktailList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocktailList.swift; sourceTree = "<group>"; };
+		C2A478902AEEB25800F1872F /* JamesonList.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JamesonList.json; sourceTree = "<group>"; };
+		C2A478922AEEB27400F1872F /* Cocktails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cocktails.swift; sourceTree = "<group>"; };
+		C2BA97172AF8164A00CA6B7A /* AboutUsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsView.swift; sourceTree = "<group>"; };
+		C2BA97192AF817CB00CA6B7A /* StartScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartScreen.swift; sourceTree = "<group>"; };
+		C2BA971B2AF819A400CA6B7A /* UserSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSettings.swift; sourceTree = "<group>"; };
+		C2BA971D2AF81BAC00CA6B7A /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		C2BA971F2AFBFE5200CA6B7A /* About.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = About.json; sourceTree = "<group>"; };
+		C2BA97212AFBFF1400CA6B7A /* AboutUs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUs.swift; sourceTree = "<group>"; };
+		C2C3C7002AF0190B007D5BA7 /* CocktailItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocktailItemRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +89,15 @@
 			children = (
 				C20DFC202AD4713C00CF80EC /* WhiskeyApp.swift */,
 				C20DFC222AD4713C00CF80EC /* ContentView.swift */,
+				C2BA97252AFEAFB200CA6B7A /* Views */,
+				C2BA97232AFEAF1D00CA6B7A /* CellViews */,
+				C2BA97242AFEAF6700CA6B7A /* DetailViews */,
+				C20DFC3F2AD883FD00CF80EC /* BannerView.swift */,
+				C2BA971B2AF819A400CA6B7A /* UserSettings.swift */,
+				C20DFC382AD73C9F00CF80EC /* CodableExtension */,
 				C20DFC242AD4713F00CF80EC /* Assets.xcassets */,
+				C20DFC332AD5C35800CF80EC /* DataResources  */,
+				C20DFC322AD5C34C00CF80EC /* Models */,
 				C20DFC262AD4713F00CF80EC /* Preview Content */,
 			);
 			path = Whiskey;
@@ -65,6 +109,64 @@
 				C20DFC272AD4713F00CF80EC /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C20DFC322AD5C34C00CF80EC /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				C20DFC302AD5C26F00CF80EC /* JamesonWhiskey.swift */,
+				C2A478922AEEB27400F1872F /* Cocktails.swift */,
+				C2BA97212AFBFF1400CA6B7A /* AboutUs.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		C20DFC332AD5C35800CF80EC /* DataResources  */ = {
+			isa = PBXGroup;
+			children = (
+				C2BA971F2AFBFE5200CA6B7A /* About.json */,
+				C20DFC342AD5E8D800CF80EC /* Jameson.json */,
+				C2A478902AEEB25800F1872F /* JamesonList.json */,
+			);
+			path = "DataResources ";
+			sourceTree = "<group>";
+		};
+		C20DFC382AD73C9F00CF80EC /* CodableExtension */ = {
+			isa = PBXGroup;
+			children = (
+				C20DFC362AD73B5D00CF80EC /* CodableExtension.swift */,
+			);
+			path = CodableExtension;
+			sourceTree = "<group>";
+		};
+		C2BA97232AFEAF1D00CA6B7A /* CellViews */ = {
+			isa = PBXGroup;
+			children = (
+				C20DFC392AD73D0500CF80EC /* WhiskeyCellView.swift */,
+				C2C3C7002AF0190B007D5BA7 /* CocktailItemRow.swift */,
+			);
+			path = CellViews;
+			sourceTree = "<group>";
+		};
+		C2BA97242AFEAF6700CA6B7A /* DetailViews */ = {
+			isa = PBXGroup;
+			children = (
+				C20DFC3D2AD8819200CF80EC /* WhiskeyDetailView.swift */,
+				C2625B842AF7D7BA00445328 /* CocktailDetailsView.swift */,
+			);
+			path = DetailViews;
+			sourceTree = "<group>";
+		};
+		C2BA97252AFEAFB200CA6B7A /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				C2BA97172AF8164A00CA6B7A /* AboutUsView.swift */,
+				C2A4788E2AEEB1B600F1872F /* CocktailList.swift */,
+				C20DFC3B2AD73EFB00CF80EC /* WhiskeyList.swift */,
+				C2BA97192AF817CB00CA6B7A /* StartScreen.swift */,
+				C2BA971D2AF81BAC00CA6B7A /* MainView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,7 +228,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				C20DFC282AD4713F00CF80EC /* Preview Assets.xcassets in Resources */,
+				C2BA97202AFBFE5400CA6B7A /* About.json in Resources */,
+				C2A478912AEEB25800F1872F /* JamesonList.json in Resources */,
 				C20DFC252AD4713F00CF80EC /* Assets.xcassets in Resources */,
+				C20DFC352AD5E8D800CF80EC /* Jameson.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +242,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2A4788F2AEEB1B600F1872F /* CocktailList.swift in Sources */,
+				C20DFC3C2AD73EFB00CF80EC /* WhiskeyList.swift in Sources */,
+				C20DFC372AD73B5D00CF80EC /* CodableExtension.swift in Sources */,
+				C20DFC3E2AD8819200CF80EC /* WhiskeyDetailView.swift in Sources */,
 				C20DFC232AD4713C00CF80EC /* ContentView.swift in Sources */,
+				C20DFC402AD883FD00CF80EC /* BannerView.swift in Sources */,
 				C20DFC212AD4713C00CF80EC /* WhiskeyApp.swift in Sources */,
+				C2A478932AEEB27400F1872F /* Cocktails.swift in Sources */,
+				C2BA97222AFBFF1400CA6B7A /* AboutUs.swift in Sources */,
+				C20DFC312AD5C27000CF80EC /* JamesonWhiskey.swift in Sources */,
+				C2BA971E2AF81BAC00CA6B7A /* MainView.swift in Sources */,
+				C2C3C7012AF0190B007D5BA7 /* CocktailItemRow.swift in Sources */,
+				C2BA971A2AF817CB00CA6B7A /* StartScreen.swift in Sources */,
+				C20DFC3A2AD73D0500CF80EC /* WhiskeyCellView.swift in Sources */,
+				C2BA97182AF8164A00CA6B7A /* AboutUsView.swift in Sources */,
+				C2BA971C2AF819A400CA6B7A /* UserSettings.swift in Sources */,
+				C2625B852AF7D7BA00445328 /* CocktailDetailsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,11 +390,13 @@
 				DEVELOPMENT_TEAM = 4X2RRQ5FN4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.food-and-drink";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationLandscapeRight;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -282,6 +404,9 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = Snow.Whiskey;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -299,11 +424,13 @@
 				DEVELOPMENT_TEAM = 4X2RRQ5FN4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.food-and-drink";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationLandscapeRight;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -311,6 +438,9 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = Snow.Whiskey;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
